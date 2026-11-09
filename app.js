@@ -4800,7 +4800,7 @@ window.startRealTimeDeviceClock = startRealTimeDeviceClock;
 // ==============================================================================
 // 21. RATTABOT AI COPILOT & AUTONOMOUS CRUD ENGINE (GEMINI REST)
 // ==============================================================================
-const DEFAULT_GEMINI_MODEL = 'gemini-2.5-flash';
+const DEFAULT_GEMINI_MODEL = 'gemini-3.8-flash';
 
 // Strictly in-memory chat session: never stored in LocalStorage or remote database!
 let rattabotChatHistory = [];
